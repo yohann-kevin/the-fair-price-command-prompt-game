@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579970833 source:c:\users\kirua\documents\c++\switch\main.cpp
+	<iostream>
+	<windows.h>
+
+1580333945 source:c:\users\kirua\documents\udemy\c++\switch\main.cpp
+	<iostream>
+	<windows.h>
+
