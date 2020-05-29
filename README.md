@@ -1,1 +1,1 @@
-# The fair price commande prompt games
+# The fair price command prompt games
